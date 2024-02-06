@@ -7,4 +7,5 @@
 	console.log("data:", data);
 </script>
 
-
+<h1>{data.global.title}</h1>
+<p>{data.global.description}</p>
