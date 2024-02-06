@@ -6,6 +6,6 @@ Create two text input fields - one with the key of title and one description.
 
 Navigate to the content module and enter the global collection. Collections will generally display a list of items, but as a singleton, it will launch directly into the one-item form. Enter information in the title and description field and hit save.
 
-IMAGE HERE
+![global](https://github.com/vanHeemstraSystems/svelte-with-directus/assets/1499433/fd47b006-a239-41f4-8ee9-cda28521ecdf)
 
 By default, new collections are not accessible to the public. Navigate to Settings -> Access Control -> Public and give Read access to the Global collection.
