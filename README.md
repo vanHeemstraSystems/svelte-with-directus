@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+svelte-with-directus
+# Svelte with Directus
 
-Based on "ABC" at https://www.abc.com/
+Based on "Getting Started with Directus and SvelteKit" at https://docs.directus.io/blog/getting-started-directus-sveltekit.html
 
 ## 100 - Introduction
 
